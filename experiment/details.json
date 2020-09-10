@@ -1,0 +1,51 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Implementation of stack using linked list",     
+			"Lab": "Computer Science",               
+			"Discipline": "Engineering",				 
+			"Technology": ""         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Code Bhakts",         
+      "Institute": "Inderprastha Engineering College",         
+      "InstituteAcronym": "IPEC"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Dr. Bindu Rani",             
+      "Institute": "Inderprastha Engineering College",               
+			"InstituteAcronym": "IPEC"         
+       },
+
+       {       
+			"Contributer": "Utkarsh Sharma",              
+      "Institute": "Inderprastha Engineering College",               
+			"InstituteAcronym": "IPEC"         
+       },
+
+       {       
+			"Contributer": "Shubham Bisht",             
+      "Institute": "Inderprastha Engineering College",               
+			"InstituteAcronym": "IPEC"         
+       },
+
+       {       
+			"Contributer": "Nishant Mishra",              
+      "Institute": "Inderprastha Engineering College",               
+			"InstituteAcronym": "IPEC"         
+       }
+	{       
+			"Contributer": "Yatin Singhania",              
+      "Institute": "Inderprastha Engineering College",               
+			"InstituteAcronym": "IPEC"         
+       }
+   ]
+
+}
