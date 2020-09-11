@@ -6,7 +6,7 @@
 <b>Discipline | <b> B.tech Information Technology
 :--|:--|
 <b> Lab | <b> Data Structure Lab
-<b> Experiment|     <b> 43. Implementation of stack using linked list
+<b> Experiment|     <b> 1. Implementation of stack using linked list
 
 <h5> About the Lab (Objective) : </h5>
 In this lab the course is designed to develop skills to design and analyze simple linear and non linear data structures. It strengthen the ability to the students to identify and apply the suitable data structure for the given real world problem. It enables them to gain knowledge in practical applications of data structures .
