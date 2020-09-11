@@ -25,8 +25,7 @@ B.Tech CSE /IT , MCA students
 
 <h5> Course Alignment : </h5>
 
-- In this experiment students will look at the fundamentals of stack , including performance specifications. Then introduction to the concept of linked structures and focus on their utility in developing simple, safe, clear, and efficient implementations of stacks .
-- The course is aligned to give students, an understanding by visualizing of how stack is implemented using linked list.
+CSE/ IT IInd Year and MCA Ist Year
 
 <h5> Universities Mapped : </h5>
 
