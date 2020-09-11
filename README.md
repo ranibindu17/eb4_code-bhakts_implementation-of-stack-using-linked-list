@@ -13,7 +13,7 @@ In this lab the course is designed to develop skills to design and analyze simpl
 
 
 <h5> About the Experiment : </h5>
-- In this experiment, student will be able to learn the working of stack.  A stack is an ordered collection of items into which new items may be inserted and from which existing items may be removed from one and only one end, called top of the stack. A stack can be implemented using singly linked list. In linked list, insertion & deletion occurs at the top of the stack only.
+-  In this experiment, student will be able to learn the working of stack.  A stack is an ordered collection of items into which new items may be inserted and from which existing items may be removed from one and only one end, called top of the stack. A stack can be implemented using singly linked list. In linked list, insertion & deletion occurs at the top of the stack only.
 
 - There are two ways of implementing stacks, Using Arrays or Using Linked Lists. In this experiment students will look at the fundamentals of stack, including performance specifications. Then they are introduced to the concept of linked structures and focus on their utility in developing simple and efficient implementations of stacks. Implementing Stack using Linked List means to make a Linked List that behave like a Stack with push() method to add data on top and pop() method to remove data from top.
 
