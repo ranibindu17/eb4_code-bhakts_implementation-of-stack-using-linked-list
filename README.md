@@ -13,13 +13,8 @@ In this lab the course is designed to develop skills to design and analyze simpl
 
 
 <h5> About the Experiment : </h5>
-There are two ways of implementing stacks, Using Arrays or Using Linked Lists
-
-- In this experiment students will look at the fundamentals of stack , including performance specifications. Then they are introduced to the concept of linked structures and focus on their utility in developing simple, safe, clear, and efficient implementations of stacks .
-
-- When we say "implementing Stack using Linked List", we mean how we can make a Linked List behave like a Stack, after all they are all logical entities. So for any data structure to act as a Stack, it should have push() method to add data on top and pop() method to remove data from top. Which is exactly what we did and hence accomplished to make a Linked List behave as a Stack.
-
-In this way our Linked list will virtually become a Stack with push() and pop() methods.
+- In this experiment, student will be able to learn the working of stack.  A stack is an ordered collection of items into which new items may be inserted and from which existing items may be removed from one and only one end, called top of the stack. A stack can be implemented using singly linked list. In linked list, insertion & deletion occurs at the top of the stack only.
+- There are two ways of implementing stacks, Using Arrays or Using Linked Lists. In this experiment students will look at the fundamentals of stack, including performance specifications. Then they are introduced to the concept of linked structures and focus on their utility in developing simple and efficient implementations of stacks. Implementing Stack using Linked List means to make a Linked List that behave like a Stack with push() method to add data on top and pop() method to remove data from top.
 
 
 <h5> Target Audience : </h5>
