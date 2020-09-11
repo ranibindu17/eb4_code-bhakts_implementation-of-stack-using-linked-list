@@ -13,10 +13,9 @@ In this lab the course is designed to develop skills to design and analyze simpl
 
 
 <h5> About the Experiment : </h5>
-
-- In this experiment students will look at the fundamentals of stack , including performance specifications. Then we introduce the concept of linked structures and focus on their utility in developing simple, safe, clear, and efficient implementations of stacks .
-
 There are two ways of implementing stacks, Using Arrays or Using Linked Lists
+
+- In this experiment students will look at the fundamentals of stack , including performance specifications. Then they are introduced to the concept of linked structures and focus on their utility in developing simple, safe, clear, and efficient implementations of stacks .
 
 - When we say "implementing Stack using Linked List", we mean how we can make a Linked List behave like a Stack, after all they are all logical entities. So for any data structure to act as a Stack, it should have push() method to add data on top and pop() method to remove data from top. Which is exactly what we did and hence accomplished to make a Linked List behave as a Stack.
 
@@ -29,7 +28,7 @@ B.Tech CSE /IT , MCA students
 
 <h5> Course Alignment : </h5>
 
-- In this experiment students will look at the fundamentals of stack , including performance specifications. Then we introduce the concept of linked structures and focus on their utility in developing simple, safe, clear, and efficient implementations of stacks .
+- In this experiment students will look at the fundamentals of stack , including performance specifications. Then introduction to the concept of linked structures and focus on their utility in developing simple, safe, clear, and efficient implementations of stacks .
 - The course is aligned to give students, an understanding by visualizing of how stack is implemented using linked list.
 
 <h5> Universities Mapped : </h5>
