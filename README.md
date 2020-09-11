@@ -14,15 +14,14 @@ In this lab the course is designed to develop skills to design and analyze simpl
 
 <h5> About the Experiment : </h5>
 
-- Stack is a linear data structure in which we restrict the operations over it in a particular order.
-
-- The order in which insertions and deletions are allowed is called LIFO (Last In First Out) or FILO (First In Last Out) i.e. the element that is inserted in the last is the first to come out or the element that is inserted first is the last to come out.
+- In this experiment students will look at the fundamentals of stack , including performance specifications. Then we introduce the concept of linked structures and focus on their utility in developing simple, safe, clear, and efficient implementations of stacks .
 
 There are two ways of implementing stacks, Using Arrays or Using Linked Lists
 
 - When we say "implementing Stack using Linked List", we mean how we can make a Linked List behave like a Stack, after all they are all logical entities. So for any data structure to act as a Stack, it should have push() method to add data on top and pop() method to remove data from top. Which is exactly what we did and hence accomplished to make a Linked List behave as a Stack.
 
 In this way our Linked list will virtually become a Stack with push() and pop() methods.
+
 
 <h5> Target Audience : </h5>
 
