@@ -20,11 +20,24 @@ With the input values simulator show how push/pop operation happens in linked li
 In most implementations and also in this simulator, Stack is basically a protected (Singly) Linked List where we can only peek at the head item, push a new item only to the head (insert at head). All operations are O(1).In input area , user will be able to give it number/alphabet/string. After pressing push button it will start its execution of algorithm. As iterations are executing they are highlighted and show its execution and relate output in Simulation section.
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+1. Student are going to be able to understand implementation of stack using linked list.
+2. Student are going to be able to use simulator and find the sequence in which process will complete their
+execution.
+3. Student are going to be able to analyze the output of stack using linked list and compare the theoretical
+output with that obtained from the experimental works.
+4. Student will be able to examine the time complexity(time taken by the algorithm) to
+implement stack using linked list.
+Goal: To enhance computational skill that how implementation of stack using linked list is used in the system.
 
 #### 2.3 Set the Pathway Activities:
-
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+1. The simulator gives a visual display where user has to click on start button.
+2. Simulator will ask for number of processes to be in the system.
+3. User will set values in Available matrix, allocation matrix, Need matrix and max
+value of every resource.
+4. User has to give the request of resources by a process.
+5. When user click on simulation tab, visualization of algorithm execution is shown
+on screen.
+6. User can find safe sequence of processes with given resource matrix in output.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
@@ -35,9 +48,7 @@ and also in finding complexity of this algorithm.
 3. What's the best case time complexity?
 
 ##### 2.5 Allow pitfalls:
-If the user gives negative value or any alphabet then, a pop-up message generated
-showing that you have entered wrong input then user have to re-enter the numbers.
-After this, the entire program will be restarted.
+If the user gives negative value then,it will not accept it
 
 ##### 2.6 Conclusion:
 Assessment/evaluation of the pre-test and post-test should run immediately to the user
