@@ -3,19 +3,15 @@
 Experiment 1: Implementation of stck using linked list
 
 ### 1. Story Outline:
-Stack is a type of queue that in practice is implemented as an area of memory that holds all local variables and parameters  employed by any function, and remembers the order in which functions are called so that function returns occur correctly. Each time a function is called, its local variables and parameters are “pushed onto” the stack. When the function returns,these locals and parameters are “popped.” Because of this, the size of a program’s stack fluctuates constantly as the program is running, but it has some maximum size. stack is as a last in, first out (LIFO) abstract data type and linear data structure. Linked list is a data structure consisting of a group of nodes which together represent a sequence.
 
-The major problem with the stack implemented using an array is, it works only for a fixed number of data values. That means the amount of data must be specified at the beginning of the implementation itself. Stack implemented using an array is not suitable, when we don't know the size of data which we are going to use. A stack data structure can be implemented by using a linked list data structure. The stack implemented using linked list can work for an unlimited number of values. That means, stack implemented using linked list works for the variable size of data. So, there is no need to fix the size at the beginning of the implementation. The Stack implemented using linked list can organize as many data values as we want.
-
-In linked list implementation of a stack, every new element is inserted as 'top' element. That means every newly inserted element is pointed by 'top'. Whenever we want to remove an element from the stack, simply remove the node which is pointed by 'top' by moving 'top' to its previous node in the list. The next field of the first element must be always NULL.
+Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
 
 ### 2. Story:
 
-In most implementations and also in this simulator, Stack is basically a protected (Singly) Linked List where we can only peek at the head item, push a new item only to the head (insert at head). All operations are O(1).In input area , user will be able to give it number/alphabet/string. After pressing push button it will start its execution of algorithm. As iterations are executing they are highlighted and show its execution and relate output in Simulation section.
+Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
 
 #### 2.1 Set the Visual Stage Description:
-
-In most implementations and also in this simulator, Stack is basically a protected (Singly) Linked List where we can only peek at the head item, push a new item only to the head (insert at head). All operations are O(1).In input area , user will be able to give it number/alphabet/string. After pressing push button it will start its execution of algorithm. As iterations are executing they are highlighted and show its execution and relate output in Simulation section.
+Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
 
 #### 2.2 Set User Objectives & Goals:
 Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
@@ -26,17 +22,37 @@ Describe the pathway activites here : (Guide : Set the pathway activities in lin
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+The challenge to user is to push , pop using link list
+and also in finding complexity of this algorithm.
+1. What's the average case time complexity?
+2. What's space complexity?
+3. What's the best case time complexity?
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+If the user gives negative value or any alphabet then, a pop-up message generated
+showing that you have entered wrong input then user have to re-enter the numbers.
+After this, the entire program will be restarted.
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+Assessment/evaluation of the pre-test and post-test should run immediately to the user
+and marks should even be assigned.
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+We can use the following steps to insert a new node into the stack...
+
+Step 1 - Create a newNode with given value.
+Step 2 - Check whether stack is Empty (top == NULL)
+Step 3 - If it is Empty, then set newNode → next = NULL.
+Step 4 - If it is Not Empty, then set newNode → next = top.
+Step 5 - Finally, set top = newNode.
+
+We can use the following steps to delete a node from the stack...
+
+Step 1 - Check whether stack is Empty (top == NULL).
+Step 2 - If it is Empty, then display "Stack is Empty!!! Deletion is not possible!!!" and terminate the function
+Step 3 - If it is Not Empty, then define a Node pointer 'temp' and set it to 'top'.
+Step 4 - Then set 'top = top → next'.
+Step 5 - Finally, delete 'temp'. (free(temp)
 
 
 ### 3. Flowchart 4
