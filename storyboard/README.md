@@ -11,10 +11,10 @@ In linked list implementation of a stack, every new element is inserted as 'top'
 
 ### 2. Story:
 
-In most implementations and also in this simulator, Stack is basically a protected (Singly) Linked List where we can only peek at the head item, push a new item only to the head (insert at head). All operations are O(1).In input area , user will be able to give it number/alphabet/string. After pressing push button it will start its execution of algorithm. As iterations are executing they are highlighted and show its execution and relate output in Simulation section.
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+
+In most implementations and also in this simulator, Stack is basically a protected (Singly) Linked List where we can only peek at the head item, push a new item only to the head (insert at head). All operations are O(1).In input area , user will be able to give it number/alphabet/string. After pressing push button it will start its execution of algorithm. As iterations are executing they are highlighted and show its execution and relate output in Simulation section.
 
 #### 2.2 Set User Objectives & Goals:
 Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
