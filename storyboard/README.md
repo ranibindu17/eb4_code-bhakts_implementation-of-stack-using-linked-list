@@ -20,6 +20,7 @@ The process starts with a screen in which the user first presses the simulator b
 
 
 #### 2.2 Set User Objectives & Goals:
+
 1. Student are going to be able to understand implementation of stack using linked list.
 2. Student are going to be able to use simulator and find the sequence in which process will complete their
 execution.
@@ -27,19 +28,16 @@ execution.
 output with that obtained from the experimental works.
 4. Student will be able to examine the time complexity(time taken by the algorithm) to
 implement stack using linked list.
-<br>
 Goal: To enhance computational skill that how implementation of stack using linked list is used in the system.
 
 #### 2.3 Set the Pathway Activities:
 
-1. The simulator gives a visual display where user has to click on start button.
-2. Simulator will ask for number of processes to be in the system.
-3. User will set values in Available matrix, allocation matrix, Need matrix and max
-value of every resource.
-4. User has to give the request of resources by a process.
-5. When user click on simulation tab, visualization of algorithm execution is shown
-on screen.
-6. User can find safe sequence of processes with given resource matrix in output.
+1. The simulator gives a visual display where the user has to click on the Simulator button.
+2. Now with the simulator window open, stack animation is displayed at the top
+3. On scrolling down, the stack visualizer appears. 
+4. Users set playback speed by using a slider.
+5. When the push button is pressed with an entry in the input field, Stack operation is performed at the center of the screen.
+6. Users can perform various other operations on the stack displayed at the center of the screen.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
