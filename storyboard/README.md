@@ -31,6 +31,7 @@ implement stack using linked list.
 Goal: To enhance computational skill that how implementation of stack using linked list is used in the system.
 
 #### 2.3 Set the Pathway Activities:
+
 1. The simulator gives a visual display where user has to click on start button.
 2. Simulator will ask for number of processes to be in the system.
 3. User will set values in Available matrix, allocation matrix, Need matrix and max
