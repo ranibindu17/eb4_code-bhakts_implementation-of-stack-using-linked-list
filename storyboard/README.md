@@ -27,6 +27,7 @@ execution.
 output with that obtained from the experimental works.
 4. Student will be able to examine the time complexity(time taken by the algorithm) to
 implement stack using linked list.
+<br>
 Goal: To enhance computational skill that how implementation of stack using linked list is used in the system.
 
 #### 2.3 Set the Pathway Activities:
