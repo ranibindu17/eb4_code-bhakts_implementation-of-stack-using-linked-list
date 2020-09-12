@@ -11,6 +11,7 @@ In linked list implementation of a stack, every new element is inserted as 'top'
 
 ### 2. Story:
 
+In most implementations and also in this simulator, Stack is basically a protected (Singly) Linked List where we can only peek at the head item, push a new item only to the head (insert at head). All operations are O(1).In input area , user will be able to give it number/alphabet/string. After pressing push button it will start its execution of algorithm. As iterations are executing they are highlighted and show its execution and relate output in Simulation section.
 
 #### 2.1 Set the Visual Stage Description:
 
