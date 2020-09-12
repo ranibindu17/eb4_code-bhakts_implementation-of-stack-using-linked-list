@@ -57,19 +57,19 @@ and marks should even be assigned.
 ##### 2.7 Equations/formulas: NA
 We can use the following steps to insert a new node into the stack...
 
-Step 1 - Create a newNode with given value.
-Step 2 - Check whether stack is Empty (top == NULL)
-Step 3 - If it is Empty, then set newNode → next = NULL.
-Step 4 - If it is Not Empty, then set newNode → next = top.
-Step 5 - Finally, set top = newNode.
+Step 1 - Create a newNode with given value.<br>
+Step 2 - Check whether stack is Empty (top == NULL)<br>
+Step 3 - If it is Empty, then set newNode → next = NULL.<br>
+Step 4 - If it is Not Empty, then set newNode → next = top.<br>
+Step 5 - Finally, set top = newNode.<br>
 
 We can use the following steps to delete a node from the stack...
 
-Step 1 - Check whether stack is Empty (top == NULL).
-Step 2 - If it is Empty, then display "Stack is Empty!!! Deletion is not possible!!!" and terminate the function
-Step 3 - If it is Not Empty, then define a Node pointer 'temp' and set it to 'top'.
-Step 4 - Then set 'top = top → next'.
-Step 5 - Finally, delete 'temp'. (free(temp)
+Step 1 - Check whether stack is Empty (top == NULL).<br>
+Step 2 - If it is Empty, then display "Stack is Empty!!! Deletion is not possible!!!" and terminate the function<br>
+Step 3 - If it is Not Empty, then define a Node pointer 'temp' and set it to 'top'.<br>
+Step 4 - Then set 'top = top → next'.<br>
+Step 5 - Finally, delete 'temp'. (free(temp)<br>
 
 
 ### 3. Flowchart 4
