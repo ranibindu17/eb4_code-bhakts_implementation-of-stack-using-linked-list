@@ -23,18 +23,17 @@
 ### 1. Focus Area : Stack Data Structure and Linked lists.
 
 Reinforce theoretical concepts (re-registering concepts learned previously).
-In this lab, student are going to be ready to understand a way to run algorithm of Linked List and also visualize the different aspects of Linked list during this
-simulator.
+In this lab, student will be able to understand how to run algorithm of linked list and also visualize stack implementation using linked list element by element in this simulator. 
 
 ### 2. Learning Objectives and Cognitive Level
 
-| Sr. No | Learning Objective                                                                  | Cognitive Level | Action Verb |
-| :----- | :---------------------------------------------------------------------------------- | :-------------- | :---------: |
-| 1.     | User will be able to: <br> describe basics of stack and linked list <br>            | Recall          |  Identify   |
-| 2.     | User will be able to: <br> Use basics of stack data structure and linked lists <br> | Recall          |   Define    |
-| 3.     | User will be able to: <br>Describe various operations on stack data structure       | Understand      |  Describe   |
-| 4.     | User will be able to: <br> Describe various operations on linked lists              | Understand      |   Explain   |
-| 5.     | User will be able to: <br> Implementing stack using linked list                     | Apply           |  Implement  |
+| Sr. No | Learning Objective                                                                                                               | Cognitive Level | Action Verb |
+| :----- | :------------------------------------------------------------------------------------------- ----------------------------|-------  :-------------- | :---------: |
+| 1.     | User will be able to: <br> Remember the concept of algorithms  <br>                                                              | Remembering     |    Recall   |
+| 2.     | User will be able to: <br> Remember the basics of stack and linked list<br> data structure and their various operations <br>     | Remembering     |    Recall   |
+| 3.     | User will be able to: <br> Design and Implement stack using linked list                                                          | Apply           |    Build    |
+| 4.     | User will be able to: <br> Examine the time complexity( time taken by the algorithm)                                             | Analyze         |    Analyze  |
+| 5.     | User will be able to: <br> Develop skills to apply data structures in problem solving.                                           | Creating        |    Develop  |
 
 <br/>
 <div align="right">
