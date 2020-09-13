@@ -28,7 +28,7 @@ In this lab, student will be able to understand how to run algorithm of linked l
 ### 2. Learning Objectives and Cognitive Level
 
 | Sr. No | Learning Objective                                                                            | Cognitive Level | Action Verb |
-| :----- | :-------------------------------------------------------------------------------------------  |-------  :-------| :---------: |
+| :----- | :-------------------------------------------------------------------------------------------  |:--------------  | :---------  |
 | 1.     | User will be able to: <br> Remember the concept of algorithms  <br>                           | Remembering     |    Recall   |
 | 2.     | User will be able to: <br> Remember the basics of stack and their operations  <br>            | Remembering     |    Recall   |
 | 3.     | User will be able to: <br> Design and Implement stack using linked list<br>                   | Apply           |    Build    |
