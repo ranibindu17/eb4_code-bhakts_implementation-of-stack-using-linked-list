@@ -85,6 +85,7 @@ link to flow chart Here : Store in the  /flowchart folder within Round2 folder i
  (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
 
 ### 5. Storyboard :
+![Storyboard animantion](images/storyboard.gif)
 Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
 Link to storybaord (.gif file ) here :
 (guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
