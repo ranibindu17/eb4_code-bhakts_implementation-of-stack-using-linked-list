@@ -21,13 +21,13 @@ The process starts with a screen in which the user first presses the simulator b
 
 #### 2.2 Set User Objectives & Goals:
 
-1. Student are going to be able to understand implementation of stack using linked list.
-2. Student are going to be able to use simulator and find the sequence in which process will complete their
-execution.
-3. Student are going to be able to analyze the output of stack using linked list and compare the theoretical
-output with that obtained from the experimental works.
-4. Student will be able to examine the time complexity(time taken by the algorithm) to
-implement stack using linked list.
+The prime objective of the experiment is to implement stack using linked list.<br>
+To be able to implement the linked list.<br>
+To understand the performance of the implementations of basic linear data structures.<br>
+To understand push,pop expression formats.<br>
+To use stacks to evaluate push expressions.<br>
+Attempt the assessment questions<br>
+
 Goal: To enhance computational skill that how implementation of stack using linked list is used in the system.
 
 #### 2.3 Set the Pathway Activities:
@@ -43,34 +43,46 @@ Goal: To enhance computational skill that how implementation of stack using link
 
 The challenge to user is to push , pop using link list
 and also in finding complexity of this algorithm.
-1. What's the average case time complexity?
-2. What's space complexity?
-3. What's the best case time complexity?
-
+1. A linear collection of data element given by mean of pointer is called ______________.
+<br>A. Graph
+<br>B. Queue
+<br>C. Stack
+<br>D. Linked List
+2. Consider a linked list of n elements. What is the time taken to insert an element after element pointed by same pointer ?
+<br>A. O(log n)
+<br>B. O(n-1)
+<br>C. O(n)
+<br>D. O(1)
+3. Time require to find any element of the linked list is _______.
+<br>A. None of these
+<br>B. O(n^2)
+<br>C. O(n)
+<br>D. O(1)
+    
 ##### 2.5 Allow pitfalls:
 If the user gives negative value then,it will not accept it
 
 ##### 2.6 Conclusion:
-Assessment/evaluation of the pre-test and post-test should run immediately to the user
-and marks should even be assigned.
+When we say "implementing Stack using Linked List", we mean how we can make a Linked List behave like a Stack, after all they are all logical entities. So for any data structure to act as a Stack, it should have push() method to add data on top and pop() method to remove data from top. Which is exactly what we did and hence accomplished to make a Linked List behave as a Stack.
 
-##### 2.7 Equations/formulas: NA
+##### 2.7 Equations/formulas:
 We can use the following steps to insert a new node into the stack...
 
-Step 1 - Create a newNode with given value.
-Step 2 - Check whether stack is Empty (top == NULL)
-Step 3 - If it is Empty, then set newNode → next = NULL.
-Step 4 - If it is Not Empty, then set newNode → next = top.
-Step 5 - Finally, set top = newNode.
+PUSH(S, x)
+    S.top = S.top+1
+    if S.top > S.size
+        Error "Stack Overflow"
+    else
+        S[S.top] = x
 
 We can use the following steps to delete a node from the stack...
 
-Step 1 - Check whether stack is Empty (top == NULL).
-Step 2 - If it is Empty, then display "Stack is Empty!!! Deletion is not possible!!!" and terminate the function
-Step 3 - If it is Not Empty, then define a Node pointer 'temp' and set it to 'top'.
-Step 4 - Then set 'top = top → next'.
-Step 5 - Finally, delete 'temp'. (free(temp)
-
+POP(S)
+    if IS_EMPTY(S)
+        Error “Stack Underflow”
+    else
+        S.top = S.top-1
+        return S[S.top+1]
 
 ### 3. Flowchart 4
 <img src="flowchart/flowchart.png"/><br>
@@ -85,6 +97,8 @@ link to flow chart Here : Store in the  /flowchart folder within Round2 folder i
  (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
 
 ### 5. Storyboard :
+![Storyboard animantion](images/storyboard.gif)
+<br>
 Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
 Link to storybaord (.gif file ) here :
 (guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
