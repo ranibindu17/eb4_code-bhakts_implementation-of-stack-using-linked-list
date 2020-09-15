@@ -49,15 +49,15 @@ and also in finding complexity of this algorithm.
 <br>C. Stack
 <br>D. Linked List
 2. Consider a linked list of n elements. What is the time taken to insert an element after element pointed by same pointer ?
-    A. O(log n)
-    B. O(n-1)
-    C. O(n)
-    D. O(1)
+<br>A. O(log n)
+<br>B. O(n-1)
+<br>C. O(n)
+<br>D. O(1)
 3. Time require to find any element of the linked list is _______.
-    A. None of these
-    B. O(n^2)
-    C. O(n)
-    D. O(1)
+<br>A. None of these
+<br>B. O(n^2)
+<br>C. O(n)
+<br>D. O(1)
     
 ##### 2.5 Allow pitfalls:
 If the user gives negative value then,it will not accept it
