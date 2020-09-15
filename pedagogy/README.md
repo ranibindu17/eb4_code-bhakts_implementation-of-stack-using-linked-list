@@ -29,8 +29,8 @@ In this lab, user are going to be ready to understand a way to run algorithm of 
 
 | Sr. No | Learning Objective                                                                  | Cognitive Level | Action Verb |
 | :----- | :---------------------------------------------------------------------------------- | :-------------- | :---------: |
-| 1.     | User will be able to: <br> Recall basics of stack and linked list <br>              | Remembering     |   Recall    |
-| 2.     | User will be able to: <br> Understand operations of stack and linked lists <br>     | Undersatnding   |   Explain   | 
+| 1.     | User will be able to: <br> Recall basics of stack and linked list <br>              | Remembering     |  Recall     |
+| 2.     | User will be able to: <br> Understand operations of stack and linked lists <br>     | Undersatnding   |  Explain    | 
 | 5.     | User will be able to: <br> Implementing stack using linked list                     | Apply           |  Build      |
 
 <br/>
@@ -71,7 +71,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 | 1.     | User will be able to recall basics of stack and linked list         | On the simulator screen, user has to choose to push or pop element in a stack to understand about how the implementation of linked list works.                                                                                                              | Q. Minimum number of queues to implement stack is \***\*\_\_\_\*\*** <br>A. Three <br>B. Four <br>C. Three <br>D. **Two**                                                                                            |
 | 2.     | User will be able to understand operations of stack and linked lists            | user must solve the complexity by remembering the number of comparisons taking place                                                                                                                                                                        | Q. What is the best case time complexity of deleting a node in Singly Linked list?<br>A. O (n)<br>B. O (n2) <br>C.O (nlogn) <br>D. **O (1)**                                                                         |
 | 3.     | User will be able to Implementing stack using linked list              | On simulator screen, user selects from the given choice of Push and Pop and then enter the value they want to insert in the linked list.                                                                                                                    | Q. In linked list each node contain minimum of two fields. One field is data field to store the data second field is?<br> A. Pointer to character <br> B. Pointer to integer <br> C. **Pointer to node** <br>D. Node |
-           |
+          
 
 </div>
 <br>
@@ -91,9 +91,10 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 | Sr.No | What users will do?                                                                           | What Simulator will do ?                                                                                   |                  Purpose of the task                  |
 | :---- | :-------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :---------------------------------------------------: |
-| 1.    | User will click on Simulation tab                                                             | Simulator opens the experiment screen                                                                      |         To open screen to perform experiment          |
-| 2.    | User will watch the example simulation so that they get an idea of how the linked list works. | Simulator will display the animation of push and pop in a stack using linked list with the algorithm also. |                 To recall the set-up                  | To let the user understand concept of push and pop in stack. |
-| 3.    | User will now enter the numeric value they want to insert in the stack.                       | Simulator will accept the value if it is positive and then wait for the user to select from next button.   | To provide basic environment to start the experiment. | To make the users understand that only positive value can be inserted in the stack. |
-| 4.    | User will then push the number in the stack as it is empty.                                   | Simulator will show the animation as well as push the element in the stack .                               |    To let the user understand the working of push.    |
-| 5.    | User will then enter another input to push or pop in the stack                                | Simulator will pop the element from the top.                                                               |    To let the user understand the working of pop.     |
+  
+| 1.    | Simulator screen will start and show the various operations of stack by example. | Simulator will display the animation of push and pop in a stack using linked list with the algorithm. |                 To recall the set-up                  | To let the user understand concept of push and pop in stack. |
+| 2.    | On Simulator screen, Three tabs are displayed for PUSH,POP and Clear operations.  | Student will select the option on Simulator screen |                 To recall the set-up                  | To let the user understand concept of push and pop in stack. |
+| 2.    | Simulator will ask to enter the numeric value to insert in the stack.                       | Simulator will accept the value if it is positive and then wait for the user to select from next button.   | To provide basic environment to start the experiment. | To make the users understand that only positive value can be inserted in the stack. |
+| 4.    | Simulator will then push the number in the stack as it is empty.                                   | Simulator will show the animation as well as push the element in the stack .                               |    To let the user understand the working of push.    |
+| 5.    | Simulator will then enter another input to push or pop in the stack                                | Simulator will pop the element from the top.                                                               |    To let the user understand the working of pop.     |
 | 6.    | User will click on the “Clear Stack” button to delete the whole stack and start a new one.    | Simulator will remove all the numbers and display an empty stack.                                          |               To start an empty stack.                |
