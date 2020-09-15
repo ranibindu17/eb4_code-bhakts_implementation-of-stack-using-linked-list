@@ -21,13 +21,13 @@ The process starts with a screen in which the user first presses the simulator b
 
 #### 2.2 Set User Objectives & Goals:
 
-1. Student are going to be able to understand implementation of stack using linked list.
-2. Student are going to be able to use simulator and find the sequence in which process will complete their
-execution.
-3. Student are going to be able to analyze the output of stack using linked list and compare the theoretical
-output with that obtained from the experimental works.
-4. Student will be able to examine the time complexity(time taken by the algorithm) to
-implement stack using linked list.
+The prime objective of the experiment is to implement stack using linked list.
+To be able to implement the linked list.
+To understand the performance of the implementations of basic linear data structures.
+To understand push,pop expression formats.
+To use stacks to evaluate push expressions.
+Attempt the assessment questions
+
 Goal: To enhance computational skill that how implementation of stack using linked list is used in the system.
 
 #### 2.3 Set the Pathway Activities:
