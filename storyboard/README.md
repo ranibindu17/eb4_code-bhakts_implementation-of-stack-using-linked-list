@@ -56,20 +56,21 @@ When we say "implementing Stack using Linked List", we mean how we can make a Li
 ##### 2.7 Equations/formulas: NA
 We can use the following steps to insert a new node into the stack...
 
-Step 1 - Create a newNode with given value.<br>
-Step 2 - Check whether stack is Empty (top == NULL)<br>
-Step 3 - If it is Empty, then set newNode → next = NULL.<br>
-Step 4 - If it is Not Empty, then set newNode → next = top.<br>
-Step 5 - Finally, set top = newNode.<br>
+PUSH(S, x)
+    S.top = S.top+1
+    if S.top > S.size
+        Error "Stack Overflow"
+    else
+        S[S.top] = x
 
 We can use the following steps to delete a node from the stack...
 
-Step 1 - Check whether stack is Empty (top == NULL).<br>
-Step 2 - If it is Empty, then display "Stack is Empty!!! Deletion is not possible!!!" and terminate the function<br>
-Step 3 - If it is Not Empty, then define a Node pointer 'temp' and set it to 'top'.<br>
-Step 4 - Then set 'top = top → next'.<br>
-Step 5 - Finally, delete 'temp'. (free(temp)<br>
-
+POP(S)
+    if IS_EMPTY(S)
+        Error “Stack Underflow”
+    else
+        S.top = S.top-1
+        return S[S.top+1]
 
 ### 3. Flowchart 4
 <img src="flowchart/flowchart.png"/><br>
