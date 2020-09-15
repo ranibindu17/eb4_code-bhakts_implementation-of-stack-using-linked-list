@@ -89,7 +89,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 <br>
 | Sr.No | What Simulator will do? | What Students will do ?| Purpose of the task|
-| :---- | :--------------------------------- | :------------------------------ | :--------------------------- | 
+| :---- | :------------------------------------------- | :--------------------------------------------- | :--------------------------------------------- | 
 | 1.    | Simulator screen will start and show two tabs:<br>Learn by example and perform the experiment. | Student will able to select the tab |       To display the animation of push and pop in a stack using linked list with the algorithm or to perform the experiment. |
 | 2.    |Simulator show the various operations of stack by example by selecting the learn by example tab. | Student will be able to understand the concept of various operations of stack.  |   To display the various operation of stack.   | 
 | 3.    |On Experiment tab, three  tab are displayed as PUSH,POP and CLEAR| Student will select PUSH tab and enter the number.   |To start simulation and to visualize the element by element building the stack |
