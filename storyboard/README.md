@@ -3,13 +3,15 @@
 Experiment 1: Implementation of stack using linked list
 
 ### 1. Story Outline:
+The experiment is based on implementation of stack by linked list. Student approaches the simulator to understand the concept of stack through experimental setup.Discussion about Singly linked list. Learning the concepts and how to implement Linked List.
+The objective of the experiment is to implementation of stack using linked list with push and pop operations. The student uses the simulator wherein he/she selects the Push and Pop button, simulate and verify the results. By performing this experiment the student is able to understand the concept and how to implement stack using Linked List.
+
+### 2. Story:
 A stack is a type of queue that in practice is implemented as an area of memory that holds all local variables and parameters employed by any function and remembers the order in which functions are called so that function returns occur correctly. Each time a function is called, its local variables and parameters are “pushed onto” the stack. When the function returns, these locals and parameters are “popped.” Because of this, the size of a program’s stack fluctuates constantly as the program is running, but it has some maximum size. a stack is a last-in, first-out (LIFO) abstract data type, and linear data structure. A linked list is a data structure consisting of a group of nodes that together represent a sequence.
 
 The major problem with the stack implemented using an array is, it works only for a fixed number of data values. That means the amount of data must be specified at the beginning of the implementation itself. Stack implemented using an array is not suitable, when we don't know the size of data that we are going to use. A stack data structure can be implemented by using a linked list data structure. The stack implemented using a linked list can work for an unlimited number of values. That means, stack implemented using the linked list works for the variable size of data. So, there is no need to fix the size at the beginning of the implementation. The Stack implemented using the linked list can organize as many data values as we want.
 
 In linked list implementation of a stack, every new element is inserted as 'top' element. That means every newly inserted element is pointed by 'top'. Whenever we want to remove an element from the stack, simply remove the node which is pointed by 'top' by moving 'top' to its previous node in the list. The next field of the first element must be always NULL.
-### 2. Story:
-
 In most implementations and also in this simulator, Stack is a protected (Singly) Linked List where we can only peek at the head item, push a new item only to the head (insert at head). All operations are O(1).In the input area, the user will be able to give it number/alphabet/string. After pressing the push button it will start its execution of the algorithm. As iterations are executing they are highlighted and show its execution and relate output in the Simulation section.
 
 The input values simulator show how to push/pop operation happens in a linked list based stack data structure. Users will be able to visualize that in different iterations condition of linked based stack as how each node in the link list changes as the operation is formed. The user has access to some playback options also, with which speed of the visualizer.
