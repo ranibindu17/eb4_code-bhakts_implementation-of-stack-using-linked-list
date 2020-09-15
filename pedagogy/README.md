@@ -93,6 +93,6 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 | 1.    | Simulator screen will start and show two tabs:<br>Learn by example and perform the experiment. | Student will able to select the tab |       To display the animation of push and pop in a stack using linked list with the algorithm or to perform the experiment. |
 | 2.    |Simulator show the various operations of stack by example by selecting the learn by example tab. | Student will be able to understand the concept of various operations of stack.  |   To display the various operation of stack.   | 
 | 3.    |On Experiment tab, three  tab are displayed as PUSH,POP and CLEAR| Student will select PUSH tab and enter the number.   |To start simulation and to visualize the element by element building the stack |
-| 4.    | Simulator will then push the number in the stack as it is empty.                                   | Simulator will show the animation as well as push the element in the stack .                               |    To let the user understand the working of push.    |
-| 5.    | Simulator will then enter another input to push or pop in the stack                                | Simulator will pop the element from the top.                                                               |    To let the user understand the working of pop.     |
-| 6.    | User will click on the “Clear Stack” button to delete the whole stack and start a new one.    | Simulator will remove all the numbers and display an empty stack.                                          |               To start an empty stack.                |
+| 4.    | POP tab will delete the number from the top of stack. | Student will click on POP tab  | To ask user to find matrix multiplication for any other matrix or to stop    |
+| 5.    |CLEAR tab will delete all the elements | Student will click on Clear tab  |    To clear all the elements fro m the stack    |
+
