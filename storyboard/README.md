@@ -21,12 +21,12 @@ The process starts with a screen in which the user first presses the simulator b
 
 #### 2.2 Set User Objectives & Goals:
 
-The prime objective of the experiment is to implement stack using linked list.
-To be able to implement the linked list.
-To understand the performance of the implementations of basic linear data structures.
-To understand push,pop expression formats.
-To use stacks to evaluate push expressions.
-Attempt the assessment questions
+The prime objective of the experiment is to implement stack using linked list.<br>
+To be able to implement the linked list.<br>
+To understand the performance of the implementations of basic linear data structures.<br>
+To understand push,pop expression formats.<br>
+To use stacks to evaluate push expressions.<br>
+Attempt the assessment questions<br>
 
 Goal: To enhance computational skill that how implementation of stack using linked list is used in the system.
 
