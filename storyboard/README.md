@@ -18,7 +18,7 @@ The input values simulator show how to push/pop operation happens in a linked li
 
 #### 2.1 Set the Visual Stage Description:
 
-The process starts with a screen in which the user first presses the simulator button which opens the simulator screen. In the simulator screen, a small animation explaining the basic functioning of the stack is displayed. On scrolling the screen we have a stack visualizer screen where we have various buttons and a text field where the user has to enter an input in case push operation is to be performed. The simulator also has pop/clear operation and some playback option also.
+When the student visits the link of the simulator page, he/she sees canvas of screen size (a grey shade).The process starts with a screen in which the user first presses the next button it will give the brief idea of the experiment and simulator button which opens the simulator screen. In the simulator screen, a small animation explaining the basic functioning of the stack is displayed. On scrolling the screen we have a stack visualizer screen where we have various buttons and a text field where the user has to enter an input in case push operation is to be performed. The simulator also has pop/clear operation and some playback option also.
 
 
 #### 2.2 Set User Objectives & Goals:
