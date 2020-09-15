@@ -95,4 +95,51 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 |     3.         |     On   Experiment tab, three  tab are   displayed as PUSH,POP and CLEAR                                 |     Student   can select any tab                                                        |     To   build the stack.                                                                                                       |
 |     4.         |      PUSH tab will ask to enter the number to be   inserted into the stack.                               |     Student   will select PUSH tab and enter the number.                                |     To   start simulation and to visualize the element by element building the stack                                            |
 |     5.         |     POP   tab will delete the number from the top of stack                                                |     Student   will click on POP tab                                                     |     To   ask user to find matrix multiplication for any other matrix or to stop.                                                |
-|     6.         |     CLEAR   tab will delete all the elements                                                              |     Student   will click on Clear tab                                                   |     To   clear all the elements fro m the stack                                                                                 |
+|     6.         |     CLEAR   tab will delete all the elements                                                              |     Student   will click on Clear tab                                                   |     To   clear all the elements fro m the stack                                                                                 |<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th><a href="http://Sr.No">Sr.No</a></th>
+<th>What Simulator will do?</th>
+<th>What Students will do?</th>
+<th>Purpose of the task</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.</td>
+<td>Simulator screen will start and show two   tabs:     Learn by example and perform the experiment</td>
+<td>Student will able to select the tab</td>
+<td>To display the animation of push and pop in a   stack using linked list with the algorithm or to perform the experiment.</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Simulator show the various operations of   stack by example by selecting the learn by example tab.</td>
+<td>Student   will be able to understand the concept of various operations of stack.</td>
+<td>To   display the various operation of stack.</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>On   Experiment tab, three  tab are   displayed as PUSH,POP and CLEAR</td>
+<td>Student   can select any tab</td>
+<td>To   build the stack.</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>PUSH tab will ask to enter the number to be   inserted into the stack.</td>
+<td>Student   will select PUSH tab and enter the number.</td>
+<td>To   start simulation and to visualize the element by element building the stack</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>POP   tab will delete the number from the top of stack</td>
+<td>Student   will click on POP tab</td>
+<td>To   ask user to find matrix multiplication for any other matrix or to stop.</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>CLEAR   tab will delete all the elements</td>
+<td>Student   will click on Clear tab</td>
+<td>To   clear all the elements fro m the stack</td>
+</tr>
+</tbody>
+</table>
