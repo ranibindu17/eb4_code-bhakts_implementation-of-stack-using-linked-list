@@ -44,10 +44,10 @@ Goal: To enhance computational skill that how implementation of stack using link
 The challenge to user is to push , pop using link list
 and also in finding complexity of this algorithm.
 1. A linear collection of data element given by mean of pointer is called ______________.
-    A. Graph
-    B. Queue
-    C. Stack
-    D. Linked List
+<br>A. Graph
+<br>B. Queue
+<br>C. Stack
+<br>D. Linked List
 2. Consider a linked list of n elements. What is the time taken to insert an element after element pointed by same pointer ?
     A. O(log n)
     B. O(n-1)
