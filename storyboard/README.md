@@ -51,8 +51,7 @@ and also in finding complexity of this algorithm.
 If the user gives negative value then,it will not accept it
 
 ##### 2.6 Conclusion:
-Assessment/evaluation of the pre-test and post-test should run immediately to the user
-and marks should even be assigned.
+When we say "implementing Stack using Linked List", we mean how we can make a Linked List behave like a Stack, after all they are all logical entities. So for any data structure to act as a Stack, it should have push() method to add data on top and pop() method to remove data from top. Which is exactly what we did and hence accomplished to make a Linked List behave as a Stack.
 
 ##### 2.7 Equations/formulas: NA
 We can use the following steps to insert a new node into the stack...
