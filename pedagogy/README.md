@@ -99,9 +99,8 @@ Learn by example and perform the experiment	Student will able to select the tab	
 
 
 | Sr.No | What Simulator will do? | What Students will do ?| Purpose of the task|
-| :---- | :-------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :---------------------------------------------------: |
-  
-| 1.    | Simulator screen will start and show the various operations of stack by example. | Simulator will display the animation of push and pop in a stack using linked list with the algorithm. |       To let the user understand concept of push and pop in stack. |
+| :---- | :---------------------- | :--------------------- | :----------------: | 
+| 1.    | Simulator screen will start and show two tabs:<br>Learn by example and perform the experiment. | Student will able to select the tab |       To display the animation of push and pop in a stack using linked list with the algorithm or to perform the experiment. |
 | 2.    | On Simulator screen, Three tabs are displayed for PUSH,POP and Clear operations.  | Student will select the option on Simulator screen |                 To recall the set-up                  | To let the user understand concept of push and pop in stack. |
 | 2.    | Simulator will ask to enter the numeric value to insert in the stack.                       | Simulator will accept the value if it is positive and then wait for the user to select from next button.   | To provide basic environment to start the experiment. | To make the users understand that only positive value can be inserted in the stack. |
 | 4.    | Simulator will then push the number in the stack as it is empty.                                   | Simulator will show the animation as well as push the element in the stack .                               |    To let the user understand the working of push.    |
