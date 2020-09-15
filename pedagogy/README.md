@@ -91,7 +91,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr.No	What Simulator will do?	What Students will do?	Purpose of the task
 1.	Simulator screen will start and show two tabs:
 Learn by example and perform the experiment	Student will able to select the tab	To display the animation of push and pop in a stack using linked list with the algorithm or to perform the experiment.
-2.	Simulator show the various operations of stack by example by selecting the learn by example tab.	Student will be able to understand the concept of variousoperations of stack.	To display the various operation of stack.
+2.			
 2.	On Experiment tab, three  tab are displayed as PUSH,POP and CLEAR	Student can select any tab 	To build the stack.
 3.	 PUSH tab will ask to enter the number to be inserted into the stack.	Student will select PUSH tab and enter the number.	To start simulation and to visualize the element by element building the stack
 4.	POP tab will delete the number from the top of stack	Student will click on POP tab	To ask user to find matrix multiplication for any other matrix or to stop.
@@ -101,8 +101,8 @@ Learn by example and perform the experiment	Student will able to select the tab	
 | Sr.No | What Simulator will do? | What Students will do ?| Purpose of the task|
 | :---- | :---------------------- | :--------------------- | :----------------: | 
 | 1.    | Simulator screen will start and show two tabs:<br>Learn by example and perform the experiment. | Student will able to select the tab |       To display the animation of push and pop in a stack using linked list with the algorithm or to perform the experiment. |
-| 2.    | On Simulator screen, Three tabs are displayed for PUSH,POP and Clear operations.  | Student will select the option on Simulator screen |                 To recall the set-up                  | To let the user understand concept of push and pop in stack. |
-| 2.    | Simulator will ask to enter the numeric value to insert in the stack.                       | Simulator will accept the value if it is positive and then wait for the user to select from next button.   | To provide basic environment to start the experiment. | To make the users understand that only positive value can be inserted in the stack. |
+| 2.    | On Experiment tab, three  tab are displayed as PUSH,POP and CLEAR | Student can select any tab  |   To build the stack.   | 
+| 3.    | Simulator will ask to enter the numeric value to insert in the stack.                       | Simulator will accept the value if it is positive and then wait for the user to select from next button.   | To provide basic environment to start the experiment. | To make the users understand that only positive value can be inserted in the stack. |
 | 4.    | Simulator will then push the number in the stack as it is empty.                                   | Simulator will show the animation as well as push the element in the stack .                               |    To let the user understand the working of push.    |
 | 5.    | Simulator will then enter another input to push or pop in the stack                                | Simulator will pop the element from the top.                                                               |    To let the user understand the working of pop.     |
 | 6.    | User will click on the “Clear Stack” button to delete the whole stack and start a new one.    | Simulator will remove all the numbers and display an empty stack.                                          |               To start an empty stack.                |
