@@ -43,10 +43,22 @@ Goal: To enhance computational skill that how implementation of stack using link
 
 The challenge to user is to push , pop using link list
 and also in finding complexity of this algorithm.
-1. What's the average case time complexity?
-2. What's space complexity?
-3. What's the best case time complexity?
-
+1. A linear collection of data element given by mean of pointer is called ______________.
+    A. Graph
+    B. Queue
+    C. Stack
+    D. Linked List
+2. Consider a linked list of n elements. What is the time taken to insert an element after element pointed by same pointer ?
+    A. O(log n)
+    B. O(n-1)
+    C. O(n)
+    D. O(1)
+3. Time require to find any element of the linked list is _______.
+    A. None of these
+    B. O(n^2)
+    C. O(n)
+    D. O(1)
+    
 ##### 2.5 Allow pitfalls:
 If the user gives negative value then,it will not accept it
 
