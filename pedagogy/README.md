@@ -20,21 +20,18 @@
 
 <a name="LO"></a>
 
-### 1. Focus Area : Stack Data Structure and Linked lists.
+### 1. Focus Area : 
 
 Reinforce theoretical concepts (re-registering concepts learned previously).
-In this lab, user are going to be ready to understand a way to run algorithm of Linked List and also visualize the different aspects of Linked list during this
-simulator.
+In this lab, user are going to be ready to understand a way to run algorithm of Linked List and also visualize stack implementation element by element during this simulator.
 
 ### 2. Learning Objectives and Cognitive Level
 
 | Sr. No | Learning Objective                                                                  | Cognitive Level | Action Verb |
 | :----- | :---------------------------------------------------------------------------------- | :-------------- | :---------: |
-| 1.     | User will be able to: <br> Describe basics of stack and linked list <br>            | Recall          |  Identify   |
-| 2.     | User will be able to: <br> Use basics of stack data structure and linked lists <br> | Recall          |   Define    |
-| 3.     | User will be able to: <br>Describe various operations on stack data structure       | Understand      |  Describe   |
-| 4.     | User will be able to: <br> Describe various operations on linked lists              | Understand      |   Explain   |
-| 5.     | User will be able to: <br> Implementing stack using linked list                     | Apply           |  Implement  |
+| 1.     | User will be able to: <br> Recall basics of stack and linked list <br>              | Remembering     |   Recall    |
+| 2.     | User will be able to: <br> Understand operations of stack and linked lists <br>     | Undersatnding   |   Explain   | 
+| 5.     | User will be able to: <br> Implementing stack using linked list                     | Apply           |  Build      |
 
 <br/>
 <div align="right">
